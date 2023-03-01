@@ -1,6 +1,6 @@
 This is an [SSCCE](http://sscce.org/) for a Java AWS SDK v1 bug report.
 
-All the relevant code is contained in [App.java](src/main/java/com/mycompany/app/App.java) with decent comments.
+All the relevant code is contained in [App.java](src/main/java/com/mycompany/app/App.java).
 
 To compile the project, run `mvn clean compile assembly:single` from the root folder.
 
