@@ -1,4 +1,4 @@
-This is a [SSCCE](http://sscce.org/) for a Java AWS SDK v1 bug report.
+This is an [SSCCE](http://sscce.org/) for a Java AWS SDK v1 bug report.
 
 All the relevant code is contained in [App.java](src/main/java/com/mycompany/app/App.java) with decent comments.
 
